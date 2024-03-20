@@ -1,3 +1,16 @@
+## Put comments here that give an overall description of what your
+## functions do
+
+## Write a short comment describing this function
+
+
+
+
+
+#library(MASS) is used to calculate inverse for non squared as well as square matrices
+
+
+
 library(MASS)
 
 makeCacheMatrix <- function(x= matrix()) {
